@@ -1,0 +1,14 @@
+{
+  "name": "aoc",
+  "version": "0.0.1",
+  "description": "\"There are my javascript solutions for Advent of Code\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mirzohid Salimov",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
