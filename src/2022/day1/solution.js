@@ -8,7 +8,7 @@ function part1(elves) {
   );
 }
 
-console.log("part1", part1(elves));
-console.log("test part1", part1(testElves));
+// console.log("part1", part1(elves));
+// console.log("test part1", part1(testElves));
 
 module.exports.part1 = part1;

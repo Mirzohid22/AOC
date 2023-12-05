@@ -70,9 +70,9 @@ function part2(calibrations) {
   }
   return sum;
 }
-console.log("test part1", part1(testCalibrationsPart1));
-console.log("part1", part1(calibrations));
-console.log("test part2", part2(testCalibrationsPart2));
-console.log("part2", part2(calibrations));
+// console.log("test part1", part1(testCalibrationsPart1));
+// console.log("part1", part1(calibrations));
+// console.log("test part2", part2(testCalibrationsPart2));
+// console.log("part2", part2(calibrations));
 module.exports.part1 = part1;
 module.exports.part2 = part2;
